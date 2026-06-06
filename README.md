@@ -74,15 +74,15 @@ class ShubhamPandey:
 ### `> system.status`
 
 ```
-╔══════════════════════════════╗
-║  🧠  LLMs & RAG     ████████  ║
+╔════════════════════════════════╗
+║  🧠  LLMs & RAG     ████████   ║
 ║  👁️  Computer Vision ███████   ║
 ║  🐍  Python          ████████  ║
 ║  🔥  PyTorch         ███████   ║
 ║  ⚡  FastAPI         ██████    ║
 ║  🐳  Docker          ██████    ║
 ║  📱  On-device AI    █████     ║
-╚══════════════════════════════╝
+╚═════════════════════════════════╝
    STATUS: [ BUILDING IN PUBLIC ]
 ```
 
@@ -205,15 +205,15 @@ and recall benchmarks.
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
-║   🚧  LOCAL AI OS ASSISTANT  [ IN PROGRESS ]             ║
+║   🚧  LOCAL AI OS ASSISTANT  [ IN PROGRESS ]              ║
 ║                                                           ║
-║   Ollama  +  Whisper  +  MCP  +  Tool Calling            ║
+║   Ollama  +  Whisper  +  MCP  +  Tool Calling             ║
 ║                                                           ║
-║   A voice-driven, fully local AI that can control        ║
+║   A voice-driven, fully local AI that can control         ║
 ║   your OS, answer questions, run code, and remember       ║
-║   context — no internet, no subscriptions, no spying.    ║
+║   context — no internet, no subscriptions, no spying.     ║
 ║                                                           ║
-║   ████████████████░░░░░░░░  65% complete                 ║
+║   ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5% complete     ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
@@ -255,10 +255,10 @@ and recall benchmarks.
 ```
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
-║   ✅  OPEN TO AI/ML ROLES — PUNE / REMOTE            ║
+║   ✅  OPEN TO AI/ML ROLES — PUNE / REMOTE           ║
 ║                                                      ║
-║   Looking for: MLE / AI Engineer / Research roles   ║
-║   Available:   Immediately — 2026 Batch             ║
+║   Looking for: MLE / AI Engineer / Research roles    ║
+║   Available:   Immediately — 2026 Batch              ║
 ║   Contact:     LinkedIn DM or GitHub Issues          ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
