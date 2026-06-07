@@ -213,7 +213,7 @@ and recall benchmarks.
 ║   your OS, answer questions, run code, and remember       ║
 ║   context — no internet, no subscriptions, no spying.     ║
 ║                                                           ║
-║   ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5% complete     ║
+║   ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5% complete    ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
