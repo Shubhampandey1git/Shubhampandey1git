@@ -74,8 +74,8 @@ class ShubhamPandey:
 ### `> system.status`
 
 ```
-╔════════════════════════════════╗
-║  🧠  LLMs & RAG     ████████   ║
+╔═════════════════════════════════╗
+║  🧠  LLMs & RAG      ████████  ║
 ║  👁️  Computer Vision ███████   ║
 ║  🐍  Python          ████████  ║
 ║  🔥  PyTorch         ███████   ║
